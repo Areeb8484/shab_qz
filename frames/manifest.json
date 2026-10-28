@@ -1,0 +1,8 @@
+{
+  "count": 180,
+  "pattern": "frames/turn/{n}.webp",
+  "pad": 4,
+  "degrees": 360,
+  "width": 759,
+  "height": 900
+}

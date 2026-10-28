@@ -1,0 +1,7 @@
+# Raw AI renders and clips (large; the site uses the processed copies in assets/ and frames/)
+renders/
+
+# Local tooling
+.claude/
+__pycache__/
+.vercel/
